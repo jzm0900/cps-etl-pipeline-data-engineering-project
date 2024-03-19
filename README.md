@@ -4,7 +4,7 @@ The objective of this project was to conduct data analytics on the Chicago Publi
 
 ## Architecture
 
-![Tools and tecnologies used.](https://github.com/jzm0900/cps-etl-pipline-data-engineering-project/blob/main/architecture.jpg)
+![Tools and tecnologies used.](https://github.com/jzm0900/cps-etl-pipeline-data-engineering-project/blob/main/architecture.jpg)
 
 ## Technology Used
 
@@ -28,4 +28,4 @@ More info about dataset can be found here: https://data.cityofchicago.org/Educat
 
 ## Data Model
 
-![The image of CPS data model.](https://github.com/jzm0900/cps-etl-pipline-data-engineering-project/blob/main/cps-data-model.JPG)
+![The image of CPS data model.](https://github.com/jzm0900/cps-etl-pipeline-data-engineering-project/blob/main/cps-data-model.JPG)
